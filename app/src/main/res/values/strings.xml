@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Proyectojrl7s21</string>
+    <string name="lbl1">Opciones</string>
+    <string name="lbl2">Datos Registrados</string>
+    <string name="lbl3">Nombre:</string>
+    <string name="lbl4">Edad:</string>
+    <string name="Lbl5">Correo:</string>
+    <string name="btn1">Ingresar Datos</string>
+    <string name="lblres1"></string>
+    <string name="lblres2"></string>
+    <string name="lblres3"></string>
+    <string name="lbl6">Ingresa tu Nombre</string>
+    <string name="lbl7">Ingresa tu Edad</string>
+    <string name="lbl8">Ingresa tu Correo</string>
+    <string name="btn2">Guardar</string>
+    <string name="btn3">Cancelar</string>
+    <string name="btn4">Cancelar Operacion</string>
+
+</resources>
